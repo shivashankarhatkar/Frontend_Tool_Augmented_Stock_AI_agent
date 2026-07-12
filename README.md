@@ -1,6 +1,6 @@
 # Financial Research AI — Frontend
 
-Vanilla HTML/CSS/JS dashboard for the Financial Research Agent backend. No frameworks.
+Vanilla HTML/CSS/JS dashboard for the Financial Research Agent backend. No frameworks. Only for testing purpose.
 
 ## Run it
 
